@@ -1,5 +1,5 @@
 # workshops
-New set of EUR University Library Workshops
+New set of EUR University Library Programming Workshops
 
 Four workshops planned:
 
