@@ -7,3 +7,5 @@ Four workshops planned:
 2. Python introduction (Using notebooks by David Beazley)
 3. Python for data science (Using notebooks by Alan Downey)
 4. Text mining with Python and Pandas
+
+## Rationale
